@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<set-switch name="showsolutions" value="no"/>
 <section xml:id="notes-week-01">
   <title>Module 3: Linear Expressions, Part 1</title>
 
@@ -135,13 +134,11 @@
            Solve the linear equation <m>2x-3=-x+5</m>.
         </p>
       </statement>
-      <if condition="showsolutions">
-        <solution>
-          <p>
-            We can add <m>x</m> to both sides to get <m>3x-3=5</m>.  Then we can add 3 to both sides to get <m>3x=8</m>.  Finally, we can divide both sides by 3 to get <m>x=\frac{8}{3}</m>.
-          </p>
-        </solution>
-      </if>
+      <solution component="mod3">
+        <p>
+          We can add <m>x</m> to both sides to get <m>3x-3=5</m>.  Then we can add 3 to both sides to get <m>3x=8</m>.  Finally, we can divide both sides by 3 to get <m>x=\frac{8}{3}</m>.
+        </p>
+      </solution>
     </example>
 
     <exercise>
@@ -160,7 +157,7 @@
           <m>x=-4</m>
         </p>
       </answer>
-      <solution>
+      <solution component="mod3">
         <p>
            Simplify the right-hand side first by distributing the <m>-\frac{1}{2}</m> to get <m>3x+1=-3+2x</m>.  Then we can subtract <m>2x</m> from both sides to get <m>x+1=-3</m>.  Finally, we can subtract 1 from both sides to get <m>x=-4</m>.
         </p>
@@ -205,7 +202,7 @@
            Too lazy to write.
         </p>
       </answer>
-      <solution>
+      <solution component="mod3">
         <p>
            Too lazy to write.
         </p>
