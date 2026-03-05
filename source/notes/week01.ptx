@@ -79,7 +79,7 @@
       <definition xml:id="def-linear-expression">
         <statement>
           <p>
-             A linear expression in the variable <m> x </m> has the form <m>ax+b</m> where <m> a </m> and <m> b </m> are real numbers and <m>a</m> is not zero. In particular, the highest power of the variable in a linear expression is always 1.
+             A <term>linear expression</term> in the variable <m> x </m> has the form <m>ax+b</m> where <m> a </m> and <m> b </m> are real numbers and <m>a</m> is not zero. In particular, the highest power of the variable in a linear expression is always 1.
              <em> Note: <m>x</m> is the variable and <m>a</m> and <m>b</m> are the coefficients.</em>
           </p>
         </statement>
@@ -117,8 +117,8 @@
     <definition xml:id="def-linear-equation">
       <statement>
         <p>
-           Whenever we have two linear expressions set equal to each other, we get a <em
-           >linear equation</em>.  For example, <m>2x-3=-x+5</m> is a linear equation.           
+           Whenever we have two linear expressions set equal to each other, we get a <term
+           >linear equation</term>.  For example, <m>2x-3=-x+5</m> is a linear equation.           
         </p>
       </statement>
     </definition>
