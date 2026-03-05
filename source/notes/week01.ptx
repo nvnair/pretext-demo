@@ -75,17 +75,15 @@
   <subsection>
     <title>Linear Expressions</title>
 
-    <p>
-      <definition xml:id="def-linear-expression">
-        <statement>
-          <p>
-             A <term>linear expression</term> in the variable <m> x </m> has the form <m>ax+b</m> where <m> a </m> and <m> b </m> are real numbers and <m>a</m> is not zero. In particular, the highest power of the variable in a linear expression is always 1.
-             <em> Note: <m>x</m> is the variable and <m>a</m> and <m>b</m> are the coefficients.</em>
-          </p>
-        </statement>
-      </definition>
-    </p>
-
+    <definition xml:id="def-linear-expression">
+      <statement>
+        <p>
+          A <term>linear expression</term> in the variable <m> x </m> has the form <m>ax+b</m> where <m> a </m> and <m> b </m> are real numbers and <m>a</m> is not zero. In particular, the highest power of the variable in a linear expression is always 1.
+          <em> Note: <m>x</m> is the variable and <m>a</m> and <m>b</m> are the coefficients.</em>
+        </p>
+      </statement>
+    </definition>
+    
     <exercise>
       <p>
          Identify which of the following are linear functions:
