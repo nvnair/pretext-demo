@@ -46,15 +46,6 @@ var ptx_lunr_docs = [
   "body": " MODULE 3: LINEAR EXPRESSIONS, PART 1   At the end of this worksheet you will be able to  Identify linear expressions.  Solve linear equations.  Determine if a linear equation has zero, one, or infinitely many solutions.  Solve linear equations resulting from real-world applications.       Monday 8\/22      Wednesday 8\/24      Friday 8\/26     "
 },
 {
-  "id": "notes-week-01-2-1-1",
-  "level": "2",
-  "url": "notes-week-01.html#notes-week-01-2-1-1",
-  "type": "List",
-  "number": "1",
-  "title": "",
-  "body": " Identify linear expressions.  Solve linear equations.  Determine if a linear equation has zero, one, or infinitely many solutions.  Solve linear equations resulting from real-world applications.  "
-},
-{
   "id": "notes-week-02",
   "level": "1",
   "url": "notes-week-02.html",
