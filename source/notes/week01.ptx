@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<section xml:id="notes-week-01" solutions="none">
+<set-switch name="showsolutions" value="no"/>
+<section xml:id="notes-week-01">
   <title>Module 3: Linear Expressions, Part 1</title>
 
   <introduction>
@@ -134,11 +135,13 @@
            Solve the linear equation <m>2x-3=-x+5</m>.
         </p>
       </statement>
-      <solution>
-        <p>
-           We can add <m>x</m> to both sides to get <m>3x-3=5</m>.  Then we can add 3 to both sides to get <m>3x=8</m>.  Finally, we can divide both sides by 3 to get <m>x=\frac{8}{3}</m>.
-        </p>
-      </solution>
+      <if condition="showsolutions">
+        <solution>
+          <p>
+            We can add <m>x</m> to both sides to get <m>3x-3=5</m>.  Then we can add 3 to both sides to get <m>3x=8</m>.  Finally, we can divide both sides by 3 to get <m>x=\frac{8}{3}</m>.
+          </p>
+        </solution>
+      </if>
     </example>
 
     <exercise>
