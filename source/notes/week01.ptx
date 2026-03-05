@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <section xml:id="notes-week-01">
-  <title>MODULE 3: LINEAR EXPRESSIONS, PART 1</title>
+  <title>Module 3: Linear Expressions, Part 1</title>
 
   <introduction>
     <p>
@@ -14,28 +14,231 @@
       </ul>  
     </p>
   </introduction>
-
+  <p>
+    This worksheet will use material from the worksheets below that were covered previously in class.  It is a good idea to look back at these worksheets when you do not remember how to do something.
+    <ul>
+      <li><a href="week02.ptx">Module 1 Worksheet 2</a></li>
+    </ul>
+  </p>
   <!-- Can also be <handout> instead of <subsection> to get a printable version -->
   <subsection>
-    <title>Monday 8/22</title>
+    <title>ALEKS Topics</title>
 
     <p>
+      This worksheet is related to the following ALEKS topics in the Module 3.  Depending on your individual progress in ALEKS, you may need to complete some other topics before you can start these, or you may have already completed these topics.
+      <ul>
+        <li>
+          <p>
+            Solving a linear equation with several occurrences of the variable: Variables on both sides and distribution
+          </p>
+        </li>
+        <li>
+          <p>
+            Solving a linear equation with several occurrences of the variable: Variables on both sides and fractional coefficients
+          </p>
+        </li>
+        <li>
+          <p>
+            Solving equations with zero, one, or infinitely many solutions
+          </p>
+        </li>
+        <li>
+          <p>
+            Translating a sentence into a one-step equation
+          </p>
+        </li>
+        <li>
+          <p>
+             Finding the perimeter or area of a rectangle given one of these values
+          </p>
+        </li>
+        <li>
+          <p>
+             Finding the sale price given the original price and percent discount
+          </p>
+        </li>
+        <li>
+          <p>
+             Finding the total cost including tax or markup
+          </p>
+        </li>
+        <li>
+          <p>
+             Solving a word problem with two unknowns using a linear equation
+          </p>
+        </li>
+      </ul>
     </p>
   </subsection>
 
 
   <subsection>
-    <title>Wednesday 8/24</title>
+    <title>Linear Expressions</title>
 
     <p>
+      <definition xml:id="def-linear-expression">
+        <statement>
+          <p>
+             A linear expression in the variable <m> x </m> has the form <m>ax+b</m> where <m> a </m> and <m> b </m> are real numbers and <m>a</m> is not zero. In particular, the highest power of the variable in a linear expression is always 1.
+             <em> Note: <m>x</m> is the variable and <m>a</m> and <m>b</m> are the coefficients.</em>
+          </p>
+        </statement>
+      </definition>
     </p>
-  </subsection>
 
+    <exercise>
+      <p>
+         Identify which of the following are linear functions:
+        <ul>
+          <li>
+            <p>
+               <m>3-2x</m>
+            </p>
+          </li>
+          <li>
+            <p>
+               <m>2x^{1/2}+100</m>
+            </p>
+          </li>
+          <li>
+            <p>
+               <m>5x-7-9x</m>
+            </p>
+          </li>
+          <li>
+            <p>
+               <m>-\pi x+2</m>
+            </p>
+          </li>
+        </ul>
+      </p>
+    </exercise>
+
+    <definition xml:id="def-linear-equation">
+      <statement>
+        <p>
+           Whenever we have two linear expressions set equal to each other, we get a <em
+           >linear equation</em>.  For example, <m>2x-3=-x+5</m> is a linear equation.           
+        </p>
+      </statement>
+    </definition>
+
+    <p>
+       To solve a linear equation, the goal is to "isolate the variable."  
+       First, if there are any fractions in the linear equation, you can multiply both sides by the least common multiple (LCM) of the denominators to eliminate the fractions. 
+       You can then move all terms with variables to one side of the equation, move all constant terms to the other side, combine like terms on both sides, and finally divide both sides by the coefficient in front of the variable, if there is one. 
+       You can perform operations on equations, as long as you perform the operation on both sides of the equation.
+    </p>
+
+    <example>
+      <statement>
+        <p>
+           Solve the linear equation <m>2x-3=-x+5</m>.
+        </p>
+      </statement>
+      <solution>
+        <p>
+           We can add <m>x</m> to both sides to get <m>3x-3=5</m>.  Then we can add 3 to both sides to get <m>3x=8</m>.  Finally, we can divide both sides by 3 to get <m>x=\frac{8}{3}</m>.
+        </p>
+      </solution>
+    </example>
+
+    <exercise>
+      <statement>
+        <p>
+           Solve the linear equation <m>3x+1=-\frac{1}{2}(6-4x)</m>.
+        </p>
+      </statement>
+      <hint>
+        <p>
+           Simplify the right-hand side first by distributing the <m>-\frac{1}{2}</m> over the parenthesis.
+        </p>
+      </hint>
+      <answer>
+        <p>
+          <m>x=-4</m>
+        </p>
+      </answer>
+      <solution>
+        <p>
+           Simplify the right-hand side first by distributing the <m>-\frac{1}{2}</m> to get <m>3x+1=-3+2x</m>.  Then we can subtract <m>2x</m> from both sides to get <m>x+1=-3</m>.  Finally, we can subtract 1 from both sides to get <m>x=-4</m>.
+        </p>
+      </solution>
+    </exercise>
+
+    <p>
+       Each of the above linear equations has one solution.
+       In general, a linear equation may have zero, one, or infinitely many solutions.
+    </p>
+
+    <exercise>
+      <statement>
+        <p>
+           Solve the following linear equations. What are the solutions?
+          <ul>
+            <li>
+              <p>
+                 <m>2x-1=\frac{4x-2}{2}</m>
+              </p>
+            </li>
+            <li>
+              <p>
+                 <m>2x-3=\frac{4x-2}{2}</m>
+              </p>
+            </li>
+            <li>
+              <p>
+                 <m>\frac{5}{4}x+1=-2x+\frac{1}{3}</m>
+              </p>
+            </li>
+        </p>
+      </statement>
+      <hint>
+        <p>
+           Too lazy to write.
+        </p>
+      </hint>
+      <answer>
+        <p>
+           Too lazy to write.
+        </p>
+      </answer>
+      <solution>
+        <p>
+           Too lazy to write.
+        </p>
+      </solution>
+    </exercise>
+  </subsection>
 
   <subsection>
-    <title>Friday 8/26</title>
-
-    <p>
-    </p>
+    <title>Word Problems</title>
+      <p>
+         To solve a word problem about a linear relationship, we can follow the following steps:
+        <ol>
+          <li>
+            <p>
+               Identify the unknown quantity and assign it to a variable (say <m>x</m>).
+            </p>
+          </li>
+          <li>
+            <p>
+              Use the given information to write a linear equation involving the variable.
+            </p>
+          </li>
+          <li>
+            <p>
+              Solve for the variable.
+            </p>
+          </li>
+          <li>
+            <p>
+              Interpret your answer in the context of the word problem.
+            </p>
+          </li>
+        </ol>
+      </p>
   </subsection>
+
+
 </section>
