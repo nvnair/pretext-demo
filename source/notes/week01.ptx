@@ -12,13 +12,14 @@
          <li> Solve linear equations resulting from real-world applications.</li>
       </ul>  
     </p>
+    <p>
+      This worksheet will use material from the worksheets below that were covered previously in class.  It is a good idea to look back at these worksheets when you do not remember how to do something.
+      <ul>
+        <li>Module 1 Worksheet 2</li>
+      </ul>
+    </p>
   </introduction>
-  <p>
-    This worksheet will use material from the worksheets below that were covered previously in class.  It is a good idea to look back at these worksheets when you do not remember how to do something.
-    <ul>
-      <li><a href="week02.ptx">Module 1 Worksheet 2</a></li>
-    </ul>
-  </p>
+  
   <!-- Can also be <handout> instead of <subsection> to get a printable version -->
   <subsection>
     <title>ALEKS Topics</title>
