@@ -194,17 +194,19 @@
       </statement>
       <hint>
         <p>
-           Too lazy to write.
+           Simplify the parentheses before solving for the variable.
         </p>
       </hint>
       <answer>
         <p>
-           Too lazy to write.
+            The first equation has infinitely many solutions, the second equation has no solution, and the third equation has one solution, which is <m>x=-\frac{4}{13}</m>.
         </p>
       </answer>
       <solution component="mod3">
         <p>
-           Too lazy to write.
+            For the first equation, we can simplify the right-hand side to get <m>2x-1=2x-1</m>.  This is true for all values of <m>x</m>, so there are infinitely many solutions.
+            For the second equation, we can simplify the right-hand side to get <m>2x-3=2x-1</m>.  This is not true for any value of <m>x</m>, so there are no solutions.
+            For the third equation, we can multiply both sides by 12 to eliminate the fractions and get <m>15x+12=-24x+4</m>.  Then we can add <m>24x</m> to both sides to get <m>39x+12=4</m>.  Next, we can subtract 12 from both sides to get <m>39x=-8</m>.  Finally, we can divide both sides by 39 to get <m>x=-\frac{8}{39}=-\frac{4}{13}</m>.
         </p>
       </solution>
     </exercise>

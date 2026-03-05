@@ -54,7 +54,7 @@
     https://pretextbook.org/doc/guide/html/publication-file-source.html#publication-file-source-version -->
     <!-- In this example, we include the w1s components from the sample activity to show solutions. -->
       <version include="w1s"/>
-
+    <!-- include mod3 if you want to include the mod3 solutions-->
   </source>
 
   <numbering>
