@@ -85,31 +85,43 @@
     </definition>
     
     <exercise>
-      <p>
-         Identify which of the following are linear functions:
-        <ul>
-          <li>
-            <p>
-               <m>3-2x</m>
-            </p>
-          </li>
-          <li>
-            <p>
-               <m>2x^{1/2}+100</m>
-            </p>
-          </li>
-          <li>
-            <p>
-               <m>5x-7-9x</m>
-            </p>
-          </li>
-          <li>
-            <p>
-               <m>-\pi x+2</m>
-            </p>
-          </li>
-        </ul>
-      </p>
+      <statement>
+        <p>
+           Identify which of the following are linear functions:
+          <ul>
+            <li>
+              <p>
+                <m>3-2x</m>
+              </p>
+            </li>
+            <li>
+              <p>
+                <m>2x^{1/2}+100</m>
+              </p>
+            </li>
+            <li>
+              <p>
+                <m>5x-7-9x</m>
+              </p>
+            </li>
+            <li>
+              <p>
+                <m>-\pi x+2</m>
+              </p>
+            </li>
+          </ul>
+        </p>
+      </statement>
+      <answer>
+        <p>
+          The first, third, and fourth expressions are linear functions, while the second expression is not a linear function.
+        </p>
+      </answer>
+      <solution component="mod3">
+        <p>
+          The first expression is a linear function because it can be rewritten as <m>-2x+3</m>, which is in the form <m>ax+b</m> with <m>a=-2</m> and <m>b=3</m>.  The second expression is not a linear function because it has a variable raised to the power of 1/2, which is not allowed in a linear expression.  The third expression is a linear function because it can be simplified to <m>-4x-7</m>, which is in the form <m>ax+b</m> with <m>a=-4</m> and <m>b=-7</m>.  The fourth expression is a linear function because it is already in the form <m>ax+b</m> with <m>a=-\pi</m> and <m>b=2</m>.
+        </p>
+      </solution>
     </exercise>
 
     <definition xml:id="def-linear-equation">
