@@ -146,7 +146,7 @@
     <css
         theme="denver"
         primary-color="#D41378"
-        primary-color-dark="#FC5DB0"
+        primary-color-dark="#F25CAB"
     />
 
     <!-- Search can be default or none, or you can use a Google-cx number to use google's search
