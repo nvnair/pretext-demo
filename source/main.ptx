@@ -56,14 +56,15 @@
     <chapter xml:id="handouts">
       <title>Handouts</title>
       <!-- Include handouts -->
-      <!--<xi:include href="./handouts/handout-filename.ptx"/>-->
+      <xi:include href="./handouts/handout-template.ptx"/>
     </chapter>
 
     <chapter xml:id="homework">
       <title>Homework</title>
 
       <!-- Include homework files -->
-      <!--<xi:include href="./homework/homework01.ptx"/>-->
+      <xi:include href="./homework/homework-01.ptx"/>
+      <xi:include href="./homework/homework-template.ptx"/>
 
     </chapter>
 
