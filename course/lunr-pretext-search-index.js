@@ -37,67 +37,67 @@ var ptx_lunr_docs = [
   "body": "learning target "
 },
 {
-  "id": "notes-week-01",
+  "id": "course-notes-3",
   "level": "1",
-  "url": "notes-week-01.html",
-  "type": "Section",
+  "url": "course-notes-3.html",
+  "type": "Worksheet",
   "number": "",
   "title": "Module 3: Linear Expressions, Part 1",
-  "body": " Module 3: Linear Expressions, Part 1   At the end of this worksheet you will be able to  Identify linear expressions.  Solve linear equations.  Determine if a linear equation has zero, one, or infinitely many solutions.  Solve linear equations resulting from real-world applications.    This worksheet will use material from the worksheets below that were covered previously in class. It is a good idea to look back at these worksheets when you do not remember how to do something.  Module 1 Worksheet 2       ALEKS Topics  This worksheet is related to the following ALEKS topics in the Module 3. Depending on your individual progress in ALEKS, you may need to complete some other topics before you can start these, or you may have already completed these topics.   Solving a linear equation with several occurrences of the variable: Variables on both sides and distribution    Solving a linear equation with several occurrences of the variable: Variables on both sides and fractional coefficients    Solving equations with zero, one, or infinitely many solutions    Translating a sentence into a one-step equation    Finding the perimeter or area of a rectangle given one of these values    Finding the sale price given the original price and percent discount    Finding the total cost including tax or markup    Solving a word problem with two unknowns using a linear equation       Linear Expressions    A linear expression in the variable has the form where and are real numbers and is not zero. In particular, the highest power of the variable in a linear expression is always 1. Note: is the variable and and are the coefficients.       Identify which of the following are linear functions:                          The first, third, and fourth expressions are linear functions, while the second expression is not a linear function.      Whenever we have two linear expressions set equal to each other, we get a linear equation . For example, is a linear equation.    To solve a linear equation, the goal is to \"isolate the variable.\" First, if there are any fractions in the linear equation, you can multiply both sides by the least common multiple (LCM) of the denominators to eliminate the fractions. You can then move all terms with variables to one side of the equation, move all constant terms to the other side, combine like terms on both sides, and finally divide both sides by the coefficient in front of the variable, if there is one. You can perform operations on equations, as long as you perform the operation on both sides of the equation.    Solve the linear equation .    We can add to both sides to get . Then we can add 3 to both sides to get . Finally, we can divide both sides by 3 to get .      Solve the linear equation .    Simplify the right-hand side first by distributing the over the parenthesis.         Each of the above linear equations has one solution. In general, a linear equation may have zero, one, or infinitely many solutions.    Solve the following linear equations. What are the solutions?                     Simplify the parentheses before solving for the variable.    The first equation has infinitely many solutions, the second equation has no solution, and the third equation has one solution, which is .      Word Problems  To solve a word problem about a linear relationship, we can follow the following steps:   Identify the unknown quantity and assign it to a variable (say ).    Use the given information to write a linear equation involving the variable.    Solve for the variable.    Interpret your answer in the context of the word problem.      "
+  "body": " Module 3: Linear Expressions, Part 1   At the end of this worksheet you will be able to  Identify linear expressions.  Solve linear equations.  Determine if a linear equation has zero, one, or infinitely many solutions.  Solve linear equations resulting from real-world applications.    This worksheet will use material from the worksheets below that were covered previously in class. It is a good idea to look back at these worksheets when you do not remember how to do something.  Module 1 Worksheet 2       ALEKS Topics  This worksheet is related to the following ALEKS topics in the Module 3. Depending on your individual progress in ALEKS, you may need to complete some other topics before you can start these, or you may have already completed these topics.   Solving a linear equation with several occurrences of the variable: Variables on both sides and distribution    Solving a linear equation with several occurrences of the variable: Variables on both sides and fractional coefficients    Solving equations with zero, one, or infinitely many solutions    Translating a sentence into a one-step equation    Finding the perimeter or area of a rectangle given one of these values    Finding the sale price given the original price and percent discount    Finding the total cost including tax or markup    Solving a word problem with two unknowns using a linear equation       Linear Expressions    A linear expression in the variable has the form where and are real numbers and is not zero. In particular, the highest power of the variable in a linear expression is always 1. Note: is the variable and and are the coefficients.       Identify which of the following are linear functions:                             Whenever we have two linear expressions set equal to each other, we get a linear equation . For example, is a linear equation.    To solve a linear equation, the goal is to \"isolate the variable.\" First, if there are any fractions in the linear equation, you can multiply both sides by the least common multiple (LCM) of the denominators to eliminate the fractions. You can then move all terms with variables to one side of the equation, move all constant terms to the other side, combine like terms on both sides, and finally divide both sides by the coefficient in front of the variable, if there is one. You can perform operations on equations, as long as you perform the operation on both sides of the equation.    Solve the linear equation .      Solve the linear equation .    Each of the above linear equations has one solution. In general, a linear equation may have zero, one, or infinitely many solutions.    Solve the following linear equations. What are the solutions?                      Word Problems  To solve a word problem about a linear relationship, we can follow the following steps:   Identify the unknown quantity and assign it to a variable (say ).    Use the given information to write a linear equation involving the variable.    Solve for the variable.    Interpret your answer in the context of the word problem.      "
 },
 {
   "id": "def-linear-expression",
   "level": "2",
-  "url": "notes-week-01.html#def-linear-expression",
+  "url": "course-notes-3.html#def-linear-expression",
   "type": "Definition",
   "number": "1",
   "title": "",
   "body": "  A linear expression in the variable has the form where and are real numbers and is not zero. In particular, the highest power of the variable in a linear expression is always 1. Note: is the variable and and are the coefficients.    "
 },
 {
-  "id": "notes-week-01-4-3",
+  "id": "course-notes-3-4-3",
   "level": "2",
-  "url": "notes-week-01.html#notes-week-01-4-3",
-  "type": "Exercise",
-  "number": "2",
+  "url": "course-notes-3.html#course-notes-3-4-3",
+  "type": "Worksheet Exercise",
+  "number": "1",
   "title": "",
-  "body": "  Identify which of the following are linear functions:                          The first, third, and fourth expressions are linear functions, while the second expression is not a linear function.   "
+  "body": "  Identify which of the following are linear functions:                         "
 },
 {
   "id": "def-linear-equation",
   "level": "2",
-  "url": "notes-week-01.html#def-linear-equation",
+  "url": "course-notes-3.html#def-linear-equation",
   "type": "Definition",
   "number": "3",
   "title": "",
   "body": "  Whenever we have two linear expressions set equal to each other, we get a linear equation . For example, is a linear equation.   "
 },
 {
-  "id": "notes-week-01-4-6",
+  "id": "course-notes-3-7",
   "level": "2",
-  "url": "notes-week-01.html#notes-week-01-4-6",
+  "url": "course-notes-3.html#course-notes-3-7",
   "type": "Example",
   "number": "4",
   "title": "",
-  "body": "  Solve the linear equation .    We can add to both sides to get . Then we can add 3 to both sides to get . Finally, we can divide both sides by 3 to get .   "
+  "body": "  Solve the linear equation .   "
 },
 {
-  "id": "notes-week-01-4-7",
+  "id": "course-notes-3-8",
   "level": "2",
-  "url": "notes-week-01.html#notes-week-01-4-7",
-  "type": "Exercise",
-  "number": "5",
+  "url": "course-notes-3.html#course-notes-3-8",
+  "type": "Worksheet Exercise",
+  "number": "2",
   "title": "",
-  "body": "  Solve the linear equation .    Simplify the right-hand side first by distributing the over the parenthesis.        "
+  "body": "  Solve the linear equation .   "
 },
 {
-  "id": "notes-week-01-4-9",
+  "id": "course-notes-3-10",
   "level": "2",
-  "url": "notes-week-01.html#notes-week-01-4-9",
-  "type": "Exercise",
-  "number": "6",
+  "url": "course-notes-3.html#course-notes-3-10",
+  "type": "Worksheet Exercise",
+  "number": "3",
   "title": "",
-  "body": "  Solve the following linear equations. What are the solutions?                     Simplify the parentheses before solving for the variable.    The first equation has infinitely many solutions, the second equation has no solution, and the third equation has one solution, which is .   "
+  "body": "  Solve the following linear equations. What are the solutions?                    "
 },
 {
   "id": "notes-week-02",
@@ -127,22 +127,67 @@ var ptx_lunr_docs = [
   "body": "  This is the first exercise.   "
 },
 {
-  "id": "handouts",
+  "id": "handout-template",
   "level": "1",
-  "url": "handouts.html",
-  "type": "Chapter",
+  "url": "handout-template.html",
+  "type": "Worksheet",
   "number": "",
-  "title": "Handouts",
-  "body": " Handouts    "
+  "title": "Worksheet",
+  "body": "  Handout Title   This is the introduction to the handout. It can include instructions, background information, etc.     This is the first exercise on the handout.      This is the second exercise on the handout.     "
 },
 {
-  "id": "homework",
+  "id": "handout-template-1-3",
+  "level": "2",
+  "url": "handout-template.html#handout-template-1-3",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "",
+  "body": "  This is the first exercise on the handout.   "
+},
+{
+  "id": "handout-template-1-4",
+  "level": "2",
+  "url": "handout-template.html#handout-template-1-4",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "",
+  "body": "  This is the second exercise on the handout.   "
+},
+{
+  "id": "homework-2",
   "level": "1",
-  "url": "homework.html",
-  "type": "Chapter",
+  "url": "homework-2.html",
+  "type": "Worksheet",
   "number": "",
-  "title": "Homework",
-  "body": " Homework    "
+  "title": "Homework 01",
+  "body": " Homework 01    Instructions: Complete all the exercises below and submit your work by the due date.      This is the first homework exercise.     "
+},
+{
+  "id": "homework-2-3-1",
+  "level": "2",
+  "url": "homework-2.html#homework-2-3-1",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "",
+  "body": "  This is the first homework exercise.   "
+},
+{
+  "id": "homework-3",
+  "level": "1",
+  "url": "homework-3.html",
+  "type": "Worksheet",
+  "number": "",
+  "title": "Homework xx",
+  "body": " Homework xx    Instructions: etc.      This is the first homework exercise.     "
+},
+{
+  "id": "homework-3-3-1",
+  "level": "2",
+  "url": "homework-3.html#homework-3-3-1",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "",
+  "body": "  This is the first homework exercise.   "
 }
 ]
 
